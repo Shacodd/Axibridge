@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-210916-72d4",
+      "title": "D A N T E S Ínferno",
+      "commanders": [
+        "D A N T E S Ínferno"
+      ],
+      "dateStart": "2026-06-13T02:09:16.000Z",
+      "dateEnd": "2026-06-13T03:21:18.000Z",
+      "dateLabel": "6/12/2026, 9:09:16 PM - 6/12/2026, 10:21:18 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260612-210916-72d4",
+      "summary": {
+        "borderlandsPct": 0.5405405405405406,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260611-214556-l9ns",
       "title": "Shacodd Cloudshaper, Shacodd The Astute",
       "commanders": [
