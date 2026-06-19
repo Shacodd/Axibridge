@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260618-210415-tg0v",
+      "title": "Shacodd Cloudshaper",
+      "commanders": [
+        "Shacodd Cloudshaper"
+      ],
+      "dateStart": "2026-06-19T02:04:15.000Z",
+      "dateEnd": "2026-06-19T03:57:08.000Z",
+      "dateLabel": "6/18/2026, 9:04:15 PM - 6/18/2026, 10:57:08 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260618-210415-tg0v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim the Peerless",
+            "value": 10,
+            "color": "#64748b"
+          },
+          {
+            "name": "Soulless Horror",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260617-203251-h4u4",
       "title": "Lucius Hackworth, P L A T I N U M",
       "commanders": [
