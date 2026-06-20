@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-210846-hhbq",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-06-20T02:08:46.000Z",
+      "dateEnd": "2026-06-20T03:40:07.000Z",
+      "dateLabel": "6/19/2026, 9:08:46 PM - 6/19/2026, 10:40:07 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260619-210846-hhbq",
+      "summary": {
+        "borderlandsPct": 0.30303030303030304,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260618-210415-tg0v",
       "title": "Shacodd Cloudshaper",
       "commanders": [
