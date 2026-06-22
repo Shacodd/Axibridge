@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-202556-nlgw",
+      "title": "D A N T E S Ínferno, Mina Nina",
+      "commanders": [
+        "D A N T E S Ínferno",
+        "Mina Nina"
+      ],
+      "dateStart": "2026-06-22T01:25:56.000Z",
+      "dateEnd": "2026-06-22T03:10:06.000Z",
+      "dateLabel": "6/21/2026, 8:25:56 PM - 6/21/2026, 10:10:06 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260621-202556-nlgw",
+      "summary": {
+        "borderlandsPct": 0.6923076923076923,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260620-211210-anfo",
       "title": "Shacodd Cloudshaper, Shacodd The Elegant",
       "commanders": [
