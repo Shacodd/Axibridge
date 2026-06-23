@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-201907-sgyu",
+      "title": "Mina Nina, Swarm Of Fish",
+      "commanders": [
+        "Mina Nina",
+        "Swarm Of Fish"
+      ],
+      "dateStart": "2026-06-23T01:19:07.000Z",
+      "dateEnd": "2026-06-23T03:18:37.000Z",
+      "dateLabel": "6/22/2026, 8:19:07 PM - 6/22/2026, 10:18:37 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260622-201907-sgyu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260621-202556-nlgw",
       "title": "D A N T E S Ínferno, Mina Nina",
       "commanders": [
