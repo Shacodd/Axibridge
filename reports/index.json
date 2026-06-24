@@ -4,6 +4,75 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260623-211102-bt79",
+      "title": "Shacodd Cloudshaper, Shacodd The Astute",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Astute"
+      ],
+      "dateStart": "2026-06-24T02:11:02.000Z",
+      "dateEnd": "2026-06-24T03:54:37.000Z",
+      "dateLabel": "6/23/2026, 9:11:02 PM - 6/23/2026, 10:54:37 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260623-211102-bt79",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cardinal Adina",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260622-201907-sgyu",
       "title": "Mina Nina, Swarm Of Fish",
       "commanders": [
