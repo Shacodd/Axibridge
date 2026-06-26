@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260625-210542-roj4",
+      "title": "Bitte Mignon, Shacodd Cloudshaper",
+      "commanders": [
+        "Bitte Mignon",
+        "Shacodd Cloudshaper"
+      ],
+      "dateStart": "2026-06-26T02:05:42.000Z",
+      "dateEnd": "2026-06-26T04:01:36.000Z",
+      "dateLabel": "6/25/2026, 9:05:42 PM - 6/25/2026, 11:01:36 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260625-210542-roj4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Decima, the Stormsinger",
+            "value": 9,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260623-211102-bt79",
       "title": "Shacodd Cloudshaper, Shacodd The Astute",
       "commanders": [
