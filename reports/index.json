@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-210729-pt7t",
+      "title": "Swarm Of Fish",
+      "commanders": [
+        "Swarm Of Fish"
+      ],
+      "dateStart": "2026-06-27T02:07:29.000Z",
+      "dateEnd": "2026-06-27T04:01:38.000Z",
+      "dateLabel": "6/26/2026, 9:07:29 PM - 6/26/2026, 11:01:38 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260626-210729-pt7t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260625-210542-roj4",
       "title": "Bitte Mignon, Shacodd Cloudshaper",
       "commanders": [
