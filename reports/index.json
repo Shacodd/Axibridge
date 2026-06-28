@@ -4,6 +4,75 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-211403-8b8i",
+      "title": "Shacodd Cloudshaper, Shacodd Mistsgaze",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd Mistsgaze"
+      ],
+      "dateStart": "2026-06-28T02:14:03.000Z",
+      "dateEnd": "2026-06-28T04:32:51.000Z",
+      "dateLabel": "6/27/2026, 9:14:03 PM - 6/27/2026, 11:32:51 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260627-211403-8b8i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct CM",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260626-210729-pt7t",
       "title": "Swarm Of Fish",
       "commanders": [
