@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260702-211704-0xx7",
+      "title": "Shacodd Cloudshaper",
+      "commanders": [
+        "Shacodd Cloudshaper"
+      ],
+      "dateStart": "2026-07-03T02:17:04.000Z",
+      "dateEnd": "2026-07-03T04:25:07.000Z",
+      "dateLabel": "7/2/2026, 9:17:04 PM - 7/2/2026, 11:25:07 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260702-211704-0xx7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 19,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260701-200429-ogw6",
       "title": "Eye Of Tyria, Lucius Hackworth, Mina Nina",
       "commanders": [
