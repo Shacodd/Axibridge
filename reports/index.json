@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-210843-6xhv",
+      "title": "N Á M Í",
+      "commanders": [
+        "N Á M Í"
+      ],
+      "dateStart": "2026-07-04T02:08:43.000Z",
+      "dateEnd": "2026-07-04T03:09:11.000Z",
+      "dateLabel": "7/3/2026, 9:08:43 PM - 7/3/2026, 10:09:11 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260703-210843-6xhv",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260702-211704-0xx7",
       "title": "Shacodd Cloudshaper",
       "commanders": [
