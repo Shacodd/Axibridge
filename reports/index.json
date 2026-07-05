@@ -4,6 +4,64 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-210613-8eyr",
+      "title": "Shacodd Cloudshaper",
+      "commanders": [
+        "Shacodd Cloudshaper"
+      ],
+      "dateStart": "2026-07-05T02:06:13.000Z",
+      "dateEnd": "2026-07-05T03:53:41.000Z",
+      "dateLabel": "7/4/2026, 9:06:13 PM - 7/4/2026, 10:53:41 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260704-210613-8eyr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Keep Construct",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260703-210843-vmt2",
       "title": "N Á M Í",
       "commanders": [
