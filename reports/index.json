@@ -4,6 +4,69 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-211433-ulhi",
+      "title": "Shacodd Cloudshaper",
+      "commanders": [
+        "Shacodd Cloudshaper"
+      ],
+      "dateStart": "2026-07-08T02:14:33.000Z",
+      "dateEnd": "2026-07-08T04:02:37.000Z",
+      "dateLabel": "7/7/2026, 9:14:33 PM - 7/7/2026, 11:02:37 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260707-211433-ulhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260706-201910-mdws",
       "title": "P L A T I N U M",
       "commanders": [
