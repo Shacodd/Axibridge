@@ -4,6 +4,65 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260709-211149-rncg",
+      "title": "Shacodd Cloudshaper, Shacodd Mistsgaze",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd Mistsgaze"
+      ],
+      "dateStart": "2026-07-10T02:11:49.000Z",
+      "dateEnd": "2026-07-10T03:56:16.000Z",
+      "dateLabel": "7/9/2026, 9:11:49 PM - 7/9/2026, 10:56:16 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260709-211149-rncg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Keep Construct CM",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260708-200948-pqoh",
       "title": "Lucius Hackworth, P L A T I N U M",
       "commanders": [
