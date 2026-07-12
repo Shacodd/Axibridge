@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-210247-lp3j",
+      "title": "Shacodd Cloudshaper",
+      "commanders": [
+        "Shacodd Cloudshaper"
+      ],
+      "dateStart": "2026-07-12T02:02:47.000Z",
+      "dateEnd": "2026-07-12T04:10:41.000Z",
+      "dateLabel": "7/11/2026, 9:02:47 PM - 7/11/2026, 11:10:41 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260711-210247-lp3j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 12,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260710-210853-tp0n",
       "title": "P L A T I N U M",
       "commanders": [
