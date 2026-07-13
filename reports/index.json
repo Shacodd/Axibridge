@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-201120-dxvu",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-07-13T01:11:20.000Z",
+      "dateEnd": "2026-07-13T02:46:27.000Z",
+      "dateLabel": "7/12/2026, 8:11:20 PM - 7/12/2026, 9:46:27 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260712-201120-dxvu",
+      "summary": {
+        "borderlandsPct": 0.7931034482758621,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260711-210247-lp3j",
       "title": "Shacodd Cloudshaper",
       "commanders": [
