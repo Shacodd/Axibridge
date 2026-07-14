@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-201858-b9h9",
+      "title": "Straw Hat Lüffy",
+      "commanders": [
+        "Straw Hat Lüffy"
+      ],
+      "dateStart": "2026-07-14T01:18:58.000Z",
+      "dateEnd": "2026-07-14T02:42:46.000Z",
+      "dateLabel": "7/13/2026, 8:18:58 PM - 7/13/2026, 9:42:46 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260713-201858-b9h9",
+      "summary": {
+        "borderlandsPct": 0.22857142857142856,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260712-201120-dxvu",
       "title": "Meester Dopie",
       "commanders": [
