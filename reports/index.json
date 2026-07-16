@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-200904-jpxg",
+      "title": "Lucius Hackworth",
+      "commanders": [
+        "Lucius Hackworth"
+      ],
+      "dateStart": "2026-07-16T01:09:04.000Z",
+      "dateEnd": "2026-07-16T02:35:52.000Z",
+      "dateLabel": "7/15/2026, 8:09:04 PM - 7/15/2026, 9:35:52 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260715-200904-jpxg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260714-211336-av16",
       "title": "Shacodd Cloudshaper",
       "commanders": [
