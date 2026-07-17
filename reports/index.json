@@ -4,6 +4,85 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-210433-3dd3",
+      "title": "Shacodd Cloudshaper, Shacodd The Astute",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Astute"
+      ],
+      "dateStart": "2026-07-17T02:04:33.000Z",
+      "dateEnd": "2026-07-17T03:59:18.000Z",
+      "dateLabel": "7/16/2026, 9:04:33 PM - 7/16/2026, 10:59:18 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260716-210433-3dd3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Xera",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct CM",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260715-200904-jpxg",
       "title": "Lucius Hackworth",
       "commanders": [
