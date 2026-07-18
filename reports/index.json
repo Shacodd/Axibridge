@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-211213-uqwr",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-07-18T02:12:13.000Z",
+      "dateEnd": "2026-07-18T03:39:10.000Z",
+      "dateLabel": "7/17/2026, 9:12:13 PM - 7/17/2026, 10:39:10 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260717-211213-uqwr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260716-210433-3dd3",
       "title": "Shacodd Cloudshaper, Shacodd The Astute",
       "commanders": [
