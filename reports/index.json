@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-211644-8n5w",
+      "title": "Shacodd The Elegant",
+      "commanders": [
+        "Shacodd The Elegant"
+      ],
+      "dateStart": "2026-07-19T02:16:44.000Z",
+      "dateEnd": "2026-07-19T04:37:13.000Z",
+      "dateLabel": "7/18/2026, 9:16:44 PM - 7/18/2026, 11:37:13 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260718-211644-8n5w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Guardian's Glade",
+            "value": 23,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260717-211213-uqwr",
       "title": "P L A T I N U M",
       "commanders": [
