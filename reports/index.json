@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-202055-9fzj",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-07-20T01:20:55.000Z",
+      "dateEnd": "2026-07-20T02:51:12.000Z",
+      "dateLabel": "7/19/2026, 8:20:55 PM - 7/19/2026, 9:51:12 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260719-202055-9fzj",
+      "summary": {
+        "borderlandsPct": 0.9069767441860465,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 39,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260718-211644-8n5w",
       "title": "Shacodd The Elegant",
       "commanders": [
