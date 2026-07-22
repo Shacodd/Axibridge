@@ -4,6 +4,91 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-211259-4ltl",
+      "title": "Shacodd Cloudshaper, Shacodd Mistsgaze, Shacodd The Elegant",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd Mistsgaze",
+        "Shacodd The Elegant"
+      ],
+      "dateStart": "2026-07-22T02:12:59.000Z",
+      "dateEnd": "2026-07-22T04:09:05.000Z",
+      "dateLabel": "7/21/2026, 9:12:59 PM - 7/21/2026, 11:09:05 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260721-211259-4ltl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Guardian's Glade",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260720-200959-lv97",
       "title": "P L A T I N U M",
       "commanders": [
