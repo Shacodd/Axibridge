@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-200954-orqa",
+      "title": "Lucius Hackworth",
+      "commanders": [
+        "Lucius Hackworth"
+      ],
+      "dateStart": "2026-07-23T01:09:54.000Z",
+      "dateEnd": "2026-07-23T02:45:43.000Z",
+      "dateLabel": "7/22/2026, 8:09:54 PM - 7/22/2026, 9:45:43 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260722-200954-orqa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260721-211259-4ltl",
       "title": "Shacodd Cloudshaper, Shacodd Mistsgaze, Shacodd The Elegant",
       "commanders": [
