@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-210925-tlwl",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-07-25T02:09:25.000Z",
+      "dateEnd": "2026-07-25T03:23:24.000Z",
+      "dateLabel": "7/24/2026, 9:09:25 PM - 7/24/2026, 10:23:24 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260724-210925-tlwl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260723-211408-d304",
       "title": "Shacodd The Elegant",
       "commanders": [
