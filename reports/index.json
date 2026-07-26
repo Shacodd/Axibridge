@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-211059-96aa",
+      "title": "Shacodd Cloudshaper, Shacodd The Elegant",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Elegant"
+      ],
+      "dateStart": "2026-07-26T02:10:59.000Z",
+      "dateEnd": "2026-07-26T02:57:11.000Z",
+      "dateLabel": "7/25/2026, 9:10:59 PM - 7/25/2026, 9:57:11 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260725-211059-96aa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Vale Guardian",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260724-210925-tlwl",
       "title": "P L A T I N U M",
       "commanders": [
