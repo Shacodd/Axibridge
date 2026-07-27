@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-201329-fzap",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-07-27T01:13:29.000Z",
+      "dateEnd": "2026-07-27T02:20:36.000Z",
+      "dateLabel": "7/26/2026, 8:13:29 PM - 7/26/2026, 9:20:36 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260726-201329-fzap",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260725-211059-96aa",
       "title": "Shacodd Cloudshaper, Shacodd The Elegant",
       "commanders": [
