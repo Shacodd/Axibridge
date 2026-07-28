@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260727-200833-g1o0",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-07-28T01:08:33.000Z",
+      "dateEnd": "2026-07-28T02:31:49.000Z",
+      "dateLabel": "7/27/2026, 8:08:33 PM - 7/27/2026, 9:31:49 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260727-200833-g1o0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260726-201329-fzap",
       "title": "Meester Dopie",
       "commanders": [
