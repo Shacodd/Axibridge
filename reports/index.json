@@ -4,6 +4,74 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-211101-dh7n",
+      "title": "Shacodd The Elegant",
+      "commanders": [
+        "Shacodd The Elegant"
+      ],
+      "dateStart": "2026-07-29T02:11:01.000Z",
+      "dateEnd": "2026-07-29T03:59:24.000Z",
+      "dateLabel": "7/28/2026, 9:11:01 PM - 7/28/2026, 10:59:24 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260728-211101-dh7n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Harvest Temple",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260727-200833-g1o0",
       "title": "P L A T I N U M",
       "commanders": [
