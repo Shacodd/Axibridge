@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-210839-uzbx",
+      "title": "D A N T E S Inferno",
+      "commanders": [
+        "D A N T E S Inferno"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-01T02:08:39.000Z",
+      "dateEnd": "2026-08-01T03:14:29.000Z",
+      "dateLabel": "7/31/2026, 9:08:39 PM - 7/31/2026, 10:14:29 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260731-210839-uzbx",
+      "summary": {
+        "borderlandsPct": 0.05405405405405406,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260730-210446-cxdr",
       "title": "Shacodd The Elegant",
       "commanders": [
