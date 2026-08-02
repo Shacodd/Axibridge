@@ -4,6 +4,59 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-211815-h4hy",
+      "title": "Shacodd The Elegant",
+      "commanders": [
+        "Shacodd The Elegant"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-02T02:18:15.000Z",
+      "dateEnd": "2026-08-02T03:40:02.000Z",
+      "dateLabel": "8/1/2026, 9:18:15 PM - 8/1/2026, 10:40:02 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260801-211815-h4hy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cardinal Sabir",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260731-210839-uzbx",
       "title": "D A N T E S Inferno",
       "commanders": [
