@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-201159-hy5h",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-04T01:11:59.000Z",
+      "dateEnd": "2026-08-04T02:12:06.000Z",
+      "dateLabel": "8/3/2026, 8:11:59 PM - 8/3/2026, 9:12:06 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260803-201159-hy5h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 55,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260802-201613-3hpv",
       "title": "Meester Dopie",
       "commanders": [
