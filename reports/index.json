@@ -4,6 +4,80 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-210940-q7vv",
+      "title": "Shacodd Cloudshaper, Shacodd The Elegant",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Elegant"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-05T02:09:40.000Z",
+      "dateEnd": "2026-08-05T03:29:49.000Z",
+      "dateLabel": "8/4/2026, 9:09:40 PM - 8/4/2026, 10:29:49 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260804-210940-q7vv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Matthias Gabrel",
+            "value": 6,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 3
+      }
+    },
+    {
       "id": "20260803-201159-hy5h",
       "title": "P L A T I N U M",
       "commanders": [
