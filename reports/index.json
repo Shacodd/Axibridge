@@ -4,6 +4,80 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-211558-7kat",
+      "title": "Shacodd The Astute, Shacodd The Elegant",
+      "commanders": [
+        "Shacodd The Astute",
+        "Shacodd The Elegant"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-07T02:15:58.000Z",
+      "dateEnd": "2026-08-07T03:56:44.000Z",
+      "dateLabel": "8/6/2026, 9:15:58 PM - 8/6/2026, 10:56:44 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260806-211558-7kat",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Xera",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260805-200939-yam4",
       "title": "N Á M Í",
       "commanders": [
