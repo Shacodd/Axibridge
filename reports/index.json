@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-210840-s1bx",
+      "title": "I N S A T I A B L E",
+      "commanders": [
+        "I N S A T I A B L E"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-08T02:08:40.000Z",
+      "dateEnd": "2026-08-08T03:39:18.000Z",
+      "dateLabel": "8/7/2026, 9:08:40 PM - 8/7/2026, 10:39:18 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260807-210840-s1bx",
+      "summary": {
+        "borderlandsPct": 0.21875,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260806-211558-7kat",
       "title": "Shacodd The Astute, Shacodd The Elegant",
       "commanders": [
