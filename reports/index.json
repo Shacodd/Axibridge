@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-212250-z7zb",
+      "title": "Shacodd The Elegant",
+      "commanders": [
+        "Shacodd The Elegant"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-09T02:22:50.000Z",
+      "dateEnd": "2026-08-09T03:57:45.000Z",
+      "dateLabel": "8/8/2026, 9:22:50 PM - 8/8/2026, 10:57:45 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260808-212250-z7zb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Guardian's Glade",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260807-210840-s1bx",
       "title": "I N S A T I A B L E",
       "commanders": [
