@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-201626-sazq",
+      "title": "K A L A D Î N",
+      "commanders": [
+        "K A L A D Î N"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-13T01:16:26.000Z",
+      "dateEnd": "2026-08-13T02:25:09.000Z",
+      "dateLabel": "8/12/2026, 8:16:26 PM - 8/12/2026, 9:25:09 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260812-201626-sazq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260811-211343-mt5m",
       "title": "Shacodd, Shacodd The Elegant",
       "commanders": [
