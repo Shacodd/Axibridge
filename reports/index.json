@@ -4,6 +4,55 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-210615-lkv8",
+      "title": "Shacodd Cloudshaper, Shacodd The Sly",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-16T02:06:15.000Z",
+      "dateEnd": "2026-08-16T04:02:39.000Z",
+      "dateLabel": "8/15/2026, 9:06:15 PM - 8/15/2026, 11:02:39 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260815-210615-lkv8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260814-211113-fiym",
       "title": "P L A T I N U M",
       "commanders": [
