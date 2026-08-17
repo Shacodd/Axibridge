@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-203200-gagx",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-17T01:32:00.000Z",
+      "dateEnd": "2026-08-17T02:25:11.000Z",
+      "dateLabel": "8/16/2026, 8:32:00 PM - 8/16/2026, 9:25:11 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260816-203200-gagx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260815-210615-lkv8",
       "title": "Shacodd Cloudshaper, Shacodd The Sly",
       "commanders": [
