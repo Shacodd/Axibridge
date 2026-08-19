@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-211403-5847",
+      "title": "Shacodd The Elegant",
+      "commanders": [
+        "Shacodd The Elegant"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-19T02:14:03.000Z",
+      "dateEnd": "2026-08-19T03:26:13.341Z",
+      "dateLabel": "8/18/2026, 9:14:03 PM - 8/18/2026, 10:26:13 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260818-211403-5847",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260817-201431-4fos",
       "title": "P L A T I N U M",
       "commanders": [
