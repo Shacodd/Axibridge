@@ -4,6 +4,37 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-212604-usw0",
+      "title": "Shacodd, Shacodd Cloudshaper, Shacodd The Elegant, Shacodd The Sly",
+      "commanders": [
+        "Shacodd",
+        "Shacodd Cloudshaper",
+        "Shacodd The Elegant",
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-21T02:26:04.000Z",
+      "dateEnd": "2026-08-21T04:19:12.334Z",
+      "dateLabel": "8/20/2026, 9:26:04 PM - 8/20/2026, 11:19:12 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260820-212604-usw0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260819-200724-p0v2",
       "title": "Namí San",
       "commanders": [
