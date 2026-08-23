@@ -4,6 +4,71 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-210405-2oqe",
+      "title": "Shacodd Cloudshaper, Shacodd The Astute, Shacodd The Sly",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Astute",
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-23T02:04:05.000Z",
+      "dateEnd": "2026-08-23T03:58:01.064Z",
+      "dateLabel": "8/22/2026, 9:04:05 PM - 8/22/2026, 10:58:01 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260822-210405-2oqe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim the Peerless",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Adina",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260821-210753-o5jc",
       "title": "I N S A T I A B L E",
       "commanders": [
