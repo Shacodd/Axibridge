@@ -4,6 +4,79 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-211408-6i62",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-28T02:14:08.000Z",
+      "dateEnd": "2026-08-28T04:07:13.883Z",
+      "dateLabel": "8/27/2026, 9:14:08 PM - 8/27/2026, 11:07:13 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260827-211408-6i62",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260826-200943-wvll",
       "title": "P L A T I N U M",
       "commanders": [
