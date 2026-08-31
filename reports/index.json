@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-201203-3mr1",
+      "title": "P L A T I N U M, Pixel Paper Doll",
+      "commanders": [
+        "P L A T I N U M",
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-31T01:12:03.000Z",
+      "dateEnd": "2026-08-31T02:38:28.698Z",
+      "dateLabel": "8/30/2026, 8:12:03 PM - 8/30/2026, 9:38:28 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260830-201203-3mr1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260829-210209-ych8",
       "title": "Shacodd Mistsgaze, Shacodd The Elegant, Shacodd The Sly",
       "commanders": [
