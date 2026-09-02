@@ -4,6 +4,79 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-211212-u6wz",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-02T02:12:12.000Z",
+      "dateEnd": "2026-09-02T03:46:05.460Z",
+      "dateLabel": "9/1/2026, 9:12:12 PM - 9/1/2026, 10:46:05 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260901-211212-u6wz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Fraenir of Jormag",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260831-201325-hgca",
       "title": "Meester Dopie",
       "commanders": [
