@@ -4,6 +4,59 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-210848-4o5u",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-06T02:08:48.000Z",
+      "dateEnd": "2026-09-06T03:55:35.200Z",
+      "dateLabel": "9/5/2026, 9:08:48 PM - 9/5/2026, 10:55:35 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260905-210848-4o5u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim the Peerless",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260904-212843-mo9u",
       "title": "Namí San",
       "commanders": [
