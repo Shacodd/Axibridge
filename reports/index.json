@@ -4,6 +4,89 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-210517-scv8",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-09T02:05:17.000Z",
+      "dateEnd": "2026-09-09T03:49:56.513Z",
+      "dateLabel": "9/8/2026, 9:05:17 PM - 9/8/2026, 10:49:56 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260908-210517-scv8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260907-201051-miwm",
       "title": "Pixel Paper Doll",
       "commanders": [
