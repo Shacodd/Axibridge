@@ -5,6 +5,84 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260924-210809-2ufc",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-25T02:08:09.000Z",
+      "dateEnd": "2026-09-25T03:47:03.359Z",
+      "dateLabel": "9/24/2026, 9:08:09 PM - 9/24/2026, 10:47:03 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260924-210809-2ufc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260923-200829-byxb",
       "title": "Pixel Paper Doll",
       "commanders": [
