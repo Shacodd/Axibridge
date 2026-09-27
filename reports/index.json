@@ -5,6 +5,49 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-213355-tyrg",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-27T02:33:55.000Z",
+      "dateEnd": "2026-09-27T04:09:55.320Z",
+      "dateLabel": "9/26/2026, 9:33:55 PM - 9/26/2026, 11:09:55 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20260926-213355-tyrg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Decima, the Stormsinger",
+            "value": 9,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260925-211117-uqz7",
       "title": "Meester Dopie",
       "commanders": [
