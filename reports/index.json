@@ -5,6 +5,59 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-210704-xvv8",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-04T02:07:04.000Z",
+      "dateEnd": "2026-10-04T03:05:42.890Z",
+      "dateLabel": "10/3/2026, 9:07:04 PM - 10/3/2026, 10:05:42 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261003-210704-xvv8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cardinal Adina",
+            "value": 7,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim the Peerless",
+            "value": 6,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261002-210743-6vhs",
       "title": "Pixel Paper Doll",
       "commanders": [
