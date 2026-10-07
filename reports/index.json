@@ -9,6 +9,55 @@
   },
   "entries": [
     {
+      "id": "20261006-210816-6yq1",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-07T02:08:16.000Z",
+      "dateEnd": "2026-10-07T03:42:33.320Z",
+      "dateLabel": "10/6/2026, 9:08:16 PM - 10/6/2026, 10:42:33 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261006-210816-6yq1",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261006-210816-e4jw",
       "title": "Shacodd The Sly",
       "commanders": [
