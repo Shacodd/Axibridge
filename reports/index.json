@@ -9,6 +9,37 @@
   },
   "entries": [
     {
+      "id": "20261007-201153-27os",
+      "title": "Meester Dopie, Namí San, Shacodd The Serene",
+      "commanders": [
+        "Meester Dopie",
+        "Namí San",
+        "Shacodd The Serene"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-08T01:11:53.000Z",
+      "dateEnd": "2026-10-08T02:51:26.591Z",
+      "dateLabel": "10/7/2026, 8:11:53 PM - 10/7/2026, 9:51:26 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261007-201153-27os",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261006-210816-6yq1",
       "title": "Shacodd The Sly",
       "commanders": [
