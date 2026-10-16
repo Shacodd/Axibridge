@@ -9,6 +9,95 @@
   },
   "entries": [
     {
+      "id": "20261015-210601-3u4h",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-16T02:06:01.000Z",
+      "dateEnd": "2026-10-16T03:39:16.919Z",
+      "dateLabel": "10/15/2026, 9:06:01 PM - 10/15/2026, 10:39:16 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261015-210601-3u4h",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cardinal Sabir",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim the Peerless",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261014-201251-bs58",
       "title": "Meester Dopie, Namí San, Pixel Paper Doll, Shacodd The Serene",
       "commanders": [
