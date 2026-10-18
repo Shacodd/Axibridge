@@ -9,6 +9,70 @@
   },
   "entries": [
     {
+      "id": "20261017-211138-1ppl",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-18T02:11:38.000Z",
+      "dateEnd": "2026-10-18T03:26:29.460Z",
+      "dateLabel": "10/17/2026, 9:11:38 PM - 10/17/2026, 10:26:29 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261017-211138-1ppl",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261016-211132-gg0r",
       "title": "P L A T I N U M",
       "commanders": [
