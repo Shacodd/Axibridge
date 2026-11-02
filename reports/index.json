@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-201055-8ph9",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-02T02:10:55.000Z",
+      "dateEnd": "2026-11-02T03:58:11.805Z",
+      "dateLabel": "11/1/2026, 8:10:55 PM - 11/1/2026, 9:58:11 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261101-201055-8ph9",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261028-201052-kjx5",
       "title": "Shacodd The Serene",
       "commanders": [
