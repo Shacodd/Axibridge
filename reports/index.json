@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261102-201153-7wxi",
+      "title": "Dantes Infernö, Namí San",
+      "commanders": [
+        "Dantes Infernö",
+        "Namí San"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-03T02:11:53.000Z",
+      "dateEnd": "2026-11-03T03:15:01.682Z",
+      "dateLabel": "11/2/2026, 8:11:53 PM - 11/2/2026, 9:15:01 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261102-201153-7wxi",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0.9473684210526315,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261101-201055-8ph9",
       "title": "Meester Dopie",
       "commanders": [
