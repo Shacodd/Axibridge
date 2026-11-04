@@ -5,9 +5,94 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-210638-4fw8",
+      "title": "Shacodd The Serene, Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Serene",
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-04T03:06:38.000Z",
+      "dateEnd": "2026-11-04T04:09:18.477Z",
+      "dateLabel": "11/3/2026, 9:06:38 PM - 11/3/2026, 10:09:18 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261103-210638-4fw8",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Soulless Horror",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
     {
       "id": "20261102-201153-7wxi",
       "title": "Dantes Infernö, Namí San",
