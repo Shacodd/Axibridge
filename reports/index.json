@@ -9,6 +9,50 @@
   },
   "entries": [
     {
+      "id": "20261105-211245-6l2j",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "50EB7D7E-A6C9-F111-BB0A-0225ACD401EB",
+        "name": "Reprieve From The Mist War",
+        "tag": "RPRV"
+      },
+      "dateStart": "2026-11-06T03:12:45.000Z",
+      "dateEnd": "2026-11-06T04:33:39.397Z",
+      "dateLabel": "11/5/2026, 9:12:45 PM - 11/5/2026, 10:33:39 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261105-211245-6l2j",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 18,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261103-210638-4fw8",
       "title": "Shacodd The Serene, Shacodd The Sly",
       "commanders": [
