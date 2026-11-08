@@ -5,9 +5,79 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-211012-hut1",
+      "title": "Shacodd The Serene, Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Serene",
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "50EB7D7E-A6C9-F111-BB0A-0225ACD401EB",
+        "name": "Reprieve From The Mist War",
+        "tag": "RPRV"
+      },
+      "dateStart": "2026-11-08T03:10:12.000Z",
+      "dateEnd": "2026-11-08T04:39:40.787Z",
+      "dateLabel": "11/7/2026, 9:10:12 PM - 11/7/2026, 10:39:40 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261107-211012-hut1",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Qadim",
+            "value": 7,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
     {
       "id": "20261105-211245-6l2j",
       "title": "Shacodd The Sly",
