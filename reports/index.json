@@ -5,9 +5,73 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.24.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261112-212305-z2ba",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "50EB7D7E-A6C9-F111-BB0A-0225ACD401EB",
+        "name": "Reprieve From The Mist War",
+        "tag": "RPRV"
+      },
+      "dateStart": "2026-11-13T03:23:05.000Z",
+      "dateEnd": "2026-11-13T04:41:40.727Z",
+      "dateLabel": "11/12/2026, 9:23:05 PM - 11/12/2026, 10:41:40 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261112-212305-z2ba",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Deimos",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 2
+      }
+    },
     {
       "id": "20261110-210401-fjp7",
       "title": "Shacodd The Sly",
