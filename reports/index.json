@@ -9,6 +9,56 @@
   },
   "entries": [
     {
+      "id": "20261114-211336-usyv",
+      "title": "Shac Odd, Shacodd The Sly",
+      "commanders": [
+        "Shac Odd",
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "50EB7D7E-A6C9-F111-BB0A-0225ACD401EB",
+        "name": "Reprieve From The Mist War",
+        "tag": "RPRV"
+      },
+      "dateStart": "2026-11-15T03:13:36.000Z",
+      "dateEnd": "2026-11-15T05:07:31.641Z",
+      "dateLabel": "11/14/2026, 9:13:36 PM - 11/14/2026, 11:07:31 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261114-211336-usyv",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 10,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Adina",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim the Peerless",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261112-212305-z2ba",
       "title": "Shacodd The Sly",
       "commanders": [
