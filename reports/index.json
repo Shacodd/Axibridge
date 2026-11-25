@@ -9,6 +9,80 @@
   },
   "entries": [
     {
+      "id": "20261124-212128-u27z",
+      "title": "Shacodd Soulspeaker",
+      "commanders": [
+        "Shacodd Soulspeaker"
+      ],
+      "guild": {
+        "id": "50EB7D7E-A6C9-F111-BB0A-0225ACD401EB",
+        "name": "Reprieve From The Mist War",
+        "tag": "RPRV"
+      },
+      "dateStart": "2026-11-25T03:21:28.000Z",
+      "dateEnd": "2026-11-25T04:20:04.913Z",
+      "dateLabel": "11/24/2026, 9:21:28 PM - 11/24/2026, 10:20:04 PM",
+      "url": "https://Shacodd.github.io/Axibridge/?report=20261124-212128-u27z",
+      "publishedBy": "Shacodd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Kaineng Overlook",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Boneskinner",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261119-211409-41bu",
       "title": "Shacodd The Sly",
       "commanders": [
